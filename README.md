@@ -31,7 +31,6 @@ brian = {
 }
 ```
 
-> Replace the `toolkit` list above with your actual day-to-day stack, and add any languages you work in — your IELTS score doesn't belong here, but fluency in multiple languages is a nice line if relevant to the roles you're targeting.
 
 ## Experience
 
